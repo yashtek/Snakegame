@@ -1,1 +1,1 @@
-In this tutorial, we'll delve into the world of game development as we build a classic Snake game using Java (Swing, and AWT).I have will build this game step-by-step from scratch including design the game board, handle user input, implement snake movement, and incorporate collision detection.
+I have build the classic Snake game using Java (Swing, AWT & Sockets).I have build this game step-by-step from scratch including designing the game board, handling user input, implementing snake movement, and incorporating collision detection.
